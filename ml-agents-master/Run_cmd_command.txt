@@ -1,0 +1,1 @@
+mlagents-learn config\trainer_config.yaml --env=AiGame\GoKartAi --run-id=KartAi --train
